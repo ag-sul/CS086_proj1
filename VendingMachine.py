@@ -1,3 +1,5 @@
+#Authors: LT Miller and LT Sullivan
+
 def space(n):
     spaces = ""
     for i in range(0, n):
